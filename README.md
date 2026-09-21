@@ -9,7 +9,7 @@ Beyond software development, I have a strong interest in **IoT**, **Electronics*
 ### Technical Stack & Interests
 
 **Backend & Software Development**  
-`C#` • `.NET 10` • `Go (Golang)` • `Node.js` • `Express` • `RESTful APIs` • `JWT Security`
+`C#` • `.NET 10` • `Go (Golang)` • `Java` • `SpringBoot` • `RESTful APIs` • `JWT Security`
 
 **Databases & Storage**  
 `PostgreSQL` • `Entity Framework Core` • `GORM` • `SQL`
