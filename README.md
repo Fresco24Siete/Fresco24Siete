@@ -28,7 +28,7 @@ Beyond software development, I have a strong interest in **IoT**, **Electronics*
 | :--- | :--- | :--- |
 | **Identity Service** | `.NET 10`, `PostgreSQL`, `JWT`, `EF Core` | Backend service providing authentication, claims-based authorization, and role management (Clientes, Domiciliarios, Intermediarios, Emprendedores, Admin Tienda). |
 | **SmartCase** | `.NET`, `Flutter`, `Docker`, `PostgreSQL` | Transport logistics & driver dispatching application built with structured APIs and C4 architecture documentation. |
-| **Umascotas** | `Node.js`, `Express`, `JWT`, `OAuth 2.0`, `Docker` | Pet adoption and shelter management platform featuring Google OAuth login, JWT authentication, donation zones, and pet catalog management. |
+| **Umascotas** | `Java` • `SpringBoot`, `JWT`, `OAuth 2.0`, `Docker` | Pet adoption and shelter management platform featuring Google OAuth login, JWT authentication, donation zones, and pet catalog management. |
 | **Go Concurrency & Data Pipelines** | `Go`, `Gota`, `Concurrency` | Algorithms and data processing scripts leveraging Go goroutines, channels, and dataframe analysis. |
 
 ---
